@@ -26,8 +26,8 @@ Before running this script, you'll need the following:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/news-headline-agent.git
-    cd news-headline-agent
+    git clone https://github.com/Suraj182004/Fetch_ai_hackthon.git
+    cd Fetch_ai_hackthon
     ```
 
 2. Configure your News API key and Twilio credentials:
@@ -39,7 +39,7 @@ Before running this script, you'll need the following:
 3. Run the script:
 
     ```bash
-    python news_headline_agent.py
+    python newsapi_hackathon.py
     ```
 
 ## Usage
@@ -58,13 +58,11 @@ Before running this script, you'll need the following:
 
 7. You can choose to fetch news again or exit the program.
 
-## Customization
 
-You can customize the script by modifying the available news categories or adjusting the refresh interval for news updates in the `time_interval` function.
 
 ## Contributors
 
-- Your Name <youremail@example.com>
+- Suraj Yaligar & Kshitij Verma
 
 ## License
 
@@ -78,4 +76,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Make sure to replace placeholders with your actual information and update the "Contributors" section with your details or any other contributors you may have. This README provides an overview of your project and helps users understand how to set it up and use it.
+
