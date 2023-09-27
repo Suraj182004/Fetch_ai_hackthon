@@ -13,7 +13,7 @@ newsman = Agent(name="newsman",
 
 
 # Replace 'your_api_key_here' with your actual News API key
-NEWS_API_KEY = 'ADD_YOUR_API_KEY'#add your new api key here
+NEWS_API_KEY = 'b477c48bec44f2395d9e87adf0d371c'#add your new api key here
 NEWS_API_URL = 'https://newsapi.org/v2/top-headlines'
 
 # Define news categories
